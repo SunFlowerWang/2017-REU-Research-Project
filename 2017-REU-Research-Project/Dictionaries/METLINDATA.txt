@@ -1,0 +1,11 @@
+3711	60.0442 	 [M+H]	59.0371	3	Acetamide	C2H5NO	60-35-5	kegg	msms	lnk
+66512	60.0442 	 [M+H]	59.0371	3	Aminoacetaldehyde	C2H5NO	6542-88-7	kegg	msms	lnk
+6	61.0396 	 [M+H]	60.0324	0	Urea	CH4N2O	57-13-6	kegg	msms	lnk
+73237	61.0396 	 [M+H]	60.0324	0	N-nitrosomethanamine	CH4N2O	64768-29-2	kegg	msms	lnk
+65767	70.0648 	 [M+H]	69.0578	4	Isobutyronitrile	C4H7N	78-82-0	kegg	msms	lnk
+71009	70.0648 	 [M+H]	69.0578	4	1-Pyrroline	C4H7N	5724-81-2	kegg	msms	lnk
+65628	72.0441 	 [M+H]	71.0371	4	Acrylamide	C3H5NO	79-06-1	kegg	msms	lnk
+62979	74.0962 	 [M+H]	73.0891	3	DEA	C4H11N	56329-27-2	kegg	msms	lnk
+65832	74.0962 	 [M+H]	73.0891	3	2-Methylpropanamine	C4H11N	78-81-9	kegg	msms	lnk
+72484	74.0962 	 [M+H]	73.0891	3	Butylamine	C4H11N	13952-84-6	kegg	msms	lnk
+87584	74.0962 	 [M+H]	73.0891	3	1-Butylamine	C4H11N	109-73-9	kegg	msms	lnk
